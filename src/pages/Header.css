@@ -1,0 +1,17 @@
+/* .heart::before {
+  content: "";
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: greenyellow;
+} */
+
+/* Header.css */
+.active {
+  color: #7fad39;
+  font-weight: bold;
+}
+.hero-center-info {
+  border: 2px solid #aaaaaa70;
+  padding: 15px;
+}
