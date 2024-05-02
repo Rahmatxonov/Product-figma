@@ -1,0 +1,20 @@
+.box {
+  background-image: url(../assets/images/fruites1.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  flex-basis: 50%;
+  height: 263px;
+}
+.box2 {
+  background-image: url(../assets/images/fruits2.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  flex-basis: 50%;
+  height: 263px;
+}
+.fruits {
+  margin-top: 100px;
+}
+.fruits-btn {
+  padding: 18px 20px;
+}

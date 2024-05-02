@@ -1,0 +1,179 @@
+{
+  "navbar": [
+    {
+      "id": "1",
+      "name": "Home"
+    },
+    {
+      "id": "2",
+      "name": "Shop"
+    },
+    {
+      "id": "3",
+      "name": "Pages"
+    },
+    {
+      "id": "4",
+      "name": "Block"
+    },
+    {
+      "id": "5",
+      "name": "Contact"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "titleEn": "All",
+      "titleUz": "Barchasi",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "titleEn": "Oranges",
+      "titleUz": "Apelsin",
+      "image": "https://i.pinimg.com/originals/b3/ff/6b/b3ff6ba7c3ca0836d8e890c83939f700.png"
+    },
+    {
+      "id": "3",
+      "titleEn": "Fresh Meat",
+      "titleUz": "Toza go'sht",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1tDNgyw-X1forBIpFstM7MAQ09VJ9M8rUUBca9X3eg&s"
+    },
+    {
+      "id": "4",
+      "titleEn": "Vegetables",
+      "titleUz": "Sabzavotlar",
+      "image": "https://clipart-library.com/img/936955.png"
+    },
+    {
+      "id": "5",
+      "titleEn": "Fastfood",
+      "titleUz": "Fastfood",
+      "image": "https://w7.pngwing.com/pngs/686/527/png-transparent-fast-food-hamburger-sushi-pizza-fast-food-food-breakfast-fast-food-restaurant-thumbnail.png"
+    }
+  ],
+  "status": [
+    {
+      "id": "1",
+      "titleEn": "Latest Product",
+      "titleUz": "Eng so'nggi mahsulot"
+    },
+    {
+      "id": "2",
+      "titleEn": "Review Products",
+      "titleUz": "Mahsulotlarni ko'rib chiqish"
+    },
+    {
+      "id": "3",
+      "titleEn": "Latest Product",
+      "titleUz": "Eng so'nggi mahsulot"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "categoryId": "1",
+      "statusId": "1",
+      "titleEn": "Bunch of bananas",
+      "titleUz": "Bir guruh banan",
+      "price": "30",
+      "image": "https://clipart-library.com/image_gallery2/Banana.png"
+    },
+    {
+      "id": "2",
+      "categoryId": "1",
+      "statusId": "2",
+      "titleEn": "Fresh organic apricot ",
+      "titleUz": "Yangi organik o'rik ",
+      "price": "30",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5auTPiP6EB1swGif9moV_bsAprskUUB3tkARIUnuBkQ&s"
+    },
+    {
+      "id": "3",
+      "categoryId": "2",
+      "statusId": "3",
+      "titleEn": "Avokado fruit",
+      "titleUz": "Avakado mevasi",
+      "price": "40",
+      "image": "https://png.pngtree.com/png-clipart/20230114/ourmid/pngtree-photo-of-avocado-png-image_6561465.png"
+    },
+    {
+      "id": "4",
+      "categoryId": "3",
+      "statusId": "1",
+      "titleEn": "Red apple",
+      "titleUz": "Qizil olma",
+      "price": "20",
+      "image": "https://p7.hiclipart.com/preview/851/1023/772/apple-juice-fruit-seed-ripe-red-apples.jpg"
+    },
+    {
+      "id": "5",
+      "categoryId": "4",
+      "statusId": "2",
+      "titleEn": "Two fresh figs",
+      "titleUz": "Ikki yangi anjir",
+      "price": "45",
+      "image": "https://image.similarpng.com/very-thumbnail/2022/02/Fresh-figs-isolated-on-transparent-background-PNG.png"
+    },
+    {
+      "id": "6",
+      "categoryId": "1",
+      "statusId": "2",
+      "titleEn": "Cucumber ",
+      "titleUz": "Bodring",
+      "price": "15",
+      "image": "https://image.similarpng.com/very-thumbnail/2021/12/Cucumber-slices-on-transparent-background-PNG.png"
+    },
+    {
+      "id": "7",
+      "categoryId": "5",
+      "statusId": "3",
+      "titleEn": "Beef steak ",
+      "titleUz": "Mol go'shti biftek ",
+      "price": "75",
+      "image": "https://image.similarpng.com/very-thumbnail/2020/09/One-raw-beef-steak-on-transparent-background-PNG.png"
+    },
+    {
+      "id": "8",
+      "categoryId": "2",
+      "statusId": "3",
+      "titleEn": "Avokado fruit",
+      "titleUz": "Avakado mevasi",
+      "price": "40",
+      "image": "https://png.pngtree.com/png-clipart/20230114/ourmid/pngtree-photo-of-avocado-png-image_6561465.png"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "image": "https://foodpandain.wordpress.com/wp-content/uploads/2015/02/copy-of-salad.jpg?w=1200",
+      "date": "May 4,2021",
+      "commentCount": "54",
+      "titleEn": "Busting Salad Myths: Eat a Well-Built Salad (If You Want To)",
+      "titleUz": "Salat afsonalarini buzish: yaxshi tayyorlangan salat iste'mol qiling (agar xohlasangiz)",
+      "bodyEn": "This is usually said when someone is trying to lose weight or be “super healthy.” First, to lose weight, it is widely understood that we must burn more calories than we eat. Thus Read More",
+      "bodyUz": "Bu odatda kimdir vazn yo'qotishga yoki juda sog'lom bo'lishga harakat qilganda aytiladi. Birinchidan, vazn yo'qotish uchun biz iste'mol qilganimizdan ko'ra ko'proq kaloriyalarni yoqishimiz kerakligi keng tarqalgan. Shunday qilib, Batafsil o'qing"
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdMSPBZUe7alky08mHFpUGZ-kZaMU19IlpfbUNrSTMQ&s",
+      "date": "May 4,2021",
+      "commentCount": "25",
+      "titleEn": "Vitamin C: How Much and Which Sources Are Best for Boosting Immunity?",
+      "titleUz": "S vitamini: qancha va qaysi Immunitetni oshirish uchun eng yaxshi manbalarmi?",
+      "bodyEn": "During cold and flu season, we try to do all we can to prevent illness or speed up how fast we recover from illness. One such strategy many employ is the use of Vitamin C for a natural remedy. Read More",
+      "bodyUz": "Sovuq va gripp mavsumida biz kasallikning oldini olish yoki kasallikdan tezroq tiklanishni tezlashtirish uchun qo'limizdan kelganini qilishga harakat qilamiz. Ko'pchilik qo'llaydigan bunday strategiyalardan biri S vitaminini tabiiy davolash uchun ishlatishdir. Ko'proq o'qish"
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6q4MVjJQCHmehdQ40amMTG6hkM2POcJlpjJOWJU2qQ&s",
+      "date": "May 4,2021",
+      "commentCount": "58",
+      "titleEn": "Pump Up the Produce Power in Winter Meals",
+      "titleUz": "Qishki ovqatlarda ishlab chiqarish quvvatini oshiring",
+      "bodyEn": "We’ve all been here before: When it seems the long, gray winter will never end and you make one more pot of hearty vegetable soup or another casserole; Read More",
+      "bodyUz": "Biz hammamiz bu erda bo'lganmiz: uzoq, kulrang qish hech qachon tugamaydiganday tuyulsa va siz yana bir idishda sabzavotli sho'rva yoki boshqa kostryulka pishirasiz; Ko'proq o'qish"
+    }
+  ]
+}

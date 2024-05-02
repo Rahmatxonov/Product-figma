@@ -1,0 +1,41 @@
+.active {
+  color: #7fad39;
+  font-weight: bold;
+}
+.hero-center-info {
+  border: 2px solid #aaaaaa70;
+  padding: 15px;
+}
+.hero-menu {
+  border: 2px solid #8888884a;
+  margin-top: 20px;
+  padding: 36px 0 37px 20px;
+}
+.hero-menu p {
+  padding-top: 10px;
+  text-transform: capitalize;
+  color: #888;
+}
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 120px;
+}
+.hero-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero-shop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero-shop img {
+  width: 700px;
+  height: 327px;
+}
+.shop-btn {
+  padding: 18px 20px;
+}

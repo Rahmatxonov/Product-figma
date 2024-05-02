@@ -1,0 +1,15 @@
+.cards {
+  width: 270px;
+  height: 270px;
+  padding: 20px 40px;
+}
+.fruits-title {
+  width: 200px;
+  white-space: nowrap;
+  margin-top: 20px;
+  text-align: center;
+}
+.fruits-image {
+  width: 150px !important;
+  height: 150px !important;
+}

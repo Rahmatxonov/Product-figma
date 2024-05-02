@@ -1,0 +1,12 @@
+.product-image {
+  width: 110px;
+  height: 100px;
+}
+.products {
+  margin-top: 60px;
+}
+.arrow {
+  background-color: #e6e3e3cb;
+  padding: 10px;
+  border-radius: 50%;
+}
